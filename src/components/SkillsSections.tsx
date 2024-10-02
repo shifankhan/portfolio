@@ -32,19 +32,19 @@ const testimonials = [
   {
     quote:
       "As a PHP developer, I build dynamic websites and applications, ensuring robust backend functionality and seamless user experiences.",
-    image: "/images/skills/php.JFIF",
+    image: "/images/skills/php.png",
     title: "PHP",
   },
   {
     quote:
       "With Laravel, I create elegant web applications that are scalable and maintainable, leveraging its powerful features to deliver exceptional results.",
-    image: "/images/skills/laravel.JFIF",
+    image: "/images/skills/laravel.png",
     title: "Laravel",
   },
   {
     quote:
       "In CodeIgniter, I develop rapid and reliable web solutions, optimizing performance and enhancing user engagement through clean code.",
-    image: "/images/skills/codignitor.JFIF",
+    image: "/images/skills/codeignitor.png",
     title: "CodeIgniter",
   },
   {

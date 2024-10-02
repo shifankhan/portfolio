@@ -21,14 +21,14 @@ const people = [
     name: "PHP",
     designation: "Full Stack Development",
     image:
-      "/images/skills/php.JFIF",
+      "/images/skills/php.png",
   },
   {
     id: 4,
     name: "Laravel",
     designation: "Full Stack Development",
     image:
-      "/images/skills/laravel.JFIF",
+      "/images/skills/laravel.png",
   },
   {
     id: 5,
